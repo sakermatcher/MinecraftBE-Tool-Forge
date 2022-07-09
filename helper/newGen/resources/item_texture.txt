@@ -1,0 +1,106 @@
+,
+"stone_head":{
+    "textures": "textures/items/tools/parts/head/stone"
+},
+"stone_rod":{
+    "textures": "textures/items/tools/parts/rod/stone"
+},
+"sandstone_head":{
+    "textures": "textures/items/tools/parts/head/sandstone"
+},
+"sandstone_rod":{
+    "textures": "textures/items/tools/parts/rod/sandstone"
+},
+"sandstone_sharpening":{
+    "textures": "textures/items/tools/parts/sharpening/sandstone"
+},
+"dripstone_head":{
+    "textures": "textures/items/tools/parts/head/dripstone"
+},
+"dripstone_rod":{
+    "textures": "textures/items/tools/parts/rod/dripstone"
+},
+"dripstone_sharpening":{
+    "textures": "textures/items/tools/parts/sharpening/dripstone"
+},
+"stone_stone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/stone_stone"
+},
+"stone_stone_sandstone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/sharpened/stone_stone_sandstone"
+},
+"stone_stone_dripstone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/sharpened/stone_stone_dripstone"
+},
+"stone_stone_paper_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/stone_stone_paper"
+},
+"sandstone_stone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/sandstone_stone"
+},
+"sandstone_stone_dripstone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/sharpened/sandstone_stone_dripstone"
+},
+"sandstone_stone_paper_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/sandstone_stone_paper"
+},
+"dripstone_stone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/dripstone_stone"
+},
+"dripstone_stone_paper_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/dripstone_stone_paper"
+},
+"stone_sandstone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/stone_sandstone"
+},
+"stone_sandstone_sandstone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/sharpened/stone_sandstone_sandstone"
+},
+"stone_sandstone_dripstone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/sharpened/stone_sandstone_dripstone"
+},
+"stone_sandstone_paper_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/stone_sandstone_paper"
+},
+"sandstone_sandstone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/sandstone_sandstone"
+},
+"sandstone_sandstone_dripstone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/sharpened/sandstone_sandstone_dripstone"
+},
+"sandstone_sandstone_paper_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/sandstone_sandstone_paper"
+},
+"dripstone_sandstone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/dripstone_sandstone"
+},
+"dripstone_sandstone_paper_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/dripstone_sandstone_paper"
+},
+"stone_dripstone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/stone_dripstone"
+},
+"stone_dripstone_sandstone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/sharpened/stone_dripstone_sandstone"
+},
+"stone_dripstone_dripstone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/sharpened/stone_dripstone_dripstone"
+},
+"stone_dripstone_paper_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/stone_dripstone_paper"
+},
+"sandstone_dripstone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/sandstone_dripstone"
+},
+"sandstone_dripstone_dripstone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/sharpened/sandstone_dripstone_dripstone"
+},
+"sandstone_dripstone_paper_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/sandstone_dripstone_paper"
+},
+"dripstone_dripstone_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/dripstone_dripstone"
+},
+"dripstone_dripstone_paper_pickaxe":{
+    "textures": "textures/items/tools/pickaxe/fam1/dripstone_dripstone_paper"
+}

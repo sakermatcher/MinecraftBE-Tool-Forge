@@ -1,0 +1,110 @@
+{
+    "paths": {
+        "molds": "C:/Users/juanp/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/forge/helper/textures/",
+        "myBehavior": "C:/Users/juanp/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/development_behavior_packs/mine BP/",
+        "myResources": "C:/Users/juanp/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/development_resource_packs/mine RP/",
+        "newStuff": "C:/Users/juanp/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/forge/helper/newGen/"
+    },
+    "families": {
+        "0": [
+            {
+                "name": "ExampleMaterial(paper)",
+                "baseItemIDs": [
+                    "minecraft:paper"
+                ],
+                "RGBA": [
+                    255,
+                    255,
+                    255,
+                    255
+                ],
+                "modifier": "none",
+                "extraInfo": [
+                    "prerod"
+                ],
+                "head": {
+                    "speed": 2,
+                    "durability": 300,
+                    "miningLVL": 2
+                },
+                "rod": {
+                    "speedMultiplier": 1.5,
+                    "durabilityMultiplier": 0.6
+                }
+            }
+        ],
+        "1": [
+            {
+                "name": "stone",
+                "baseItemIDs": [
+                    "minecraft:stone",
+                    "minecraft:cobblestone"
+                ],
+                "RGBA": [
+                    161,
+                    161,
+                    161,
+                    255
+                ],
+                "modifier": "none",
+                "extraInfo": [],
+                "head": {
+                    "speed": 3,
+                    "durability": 600,
+                    "miningLVL": 1
+                },
+                "rod": {
+                    "speedMultiplier": 0.8,
+                    "durabilityMultiplier": 1.9
+                }
+            },
+            {
+                "name": "sandstone",
+                "baseItemIDs": [
+                    "minecraft:sandstone"
+                ],
+                "RGBA": [
+                    252,
+                    226,
+                    178,
+                    255
+                ],
+                "modifier": "none",
+                "extraInfo": [],
+                "head": {
+                    "speed": 4,
+                    "durability": 400,
+                    "miningLVL": 2
+                },
+                "rod": {
+                    "speedMultiplier": 1.3,
+                    "durabilityMultiplier": 0.7
+                }
+            },
+            {
+                "name": "dripstone",
+                "baseItemIDs": [
+                    "minecraft:dripstone_block",
+                    "minecraft:pointed_dripstone"
+                ],
+                "RGBA": [
+                    180,
+                    116,
+                    76,
+                    255
+                ],
+                "modifier": "none",
+                "extraInfo": [],
+                "head": {
+                    "speed": 4.5,
+                    "durability": 500,
+                    "miningLVL": 3
+                },
+                "rod": {
+                    "speedMultiplier": 1.5,
+                    "durabilityMultiplier": 0.2
+                }
+            }
+        ]
+    }
+}
