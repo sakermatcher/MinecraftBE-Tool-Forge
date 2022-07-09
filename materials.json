@@ -1,9 +1,9 @@
 {
     "paths": {
-        "molds": "C:/Users/juanp/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/forge/helper/textures/",
-        "myBehavior": "C:/Users/juanp/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/development_behavior_packs/mine BP/",
-        "myResources": "C:/Users/juanp/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/development_resource_packs/mine RP/",
-        "newStuff": "C:/Users/juanp/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/forge/helper/newGen/"
+        "molds": "C:/Users/...",//The path for the base part textures
+        "myBehavior": "C:/Users/...",//The path to your behavior pack
+        "myResources": "C:/Users/...",//The path to your resource pack
+        "newStuff": "C:/Users/..."//The path to a folder which is used to save all the new files to avoid problems caused by saving directly into your addon
     },
     "families": {
         "0": [
